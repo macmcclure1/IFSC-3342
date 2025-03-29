@@ -16,6 +16,5 @@
             "name": "Launch Resume HTML",
             "file": "${workspaceFolder}/resume/index.html"
           }
-        ]
-     }
-}
+    ]
+ }
